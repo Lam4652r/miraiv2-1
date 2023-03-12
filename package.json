@@ -1,7 +1,7 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "ProjeckZour-qlam",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+    "description": "Bot Được Tạo Bởi Lê Quang Lâm Có Lỗi Vui Lòng Liên Hệ Fb : m.me/qlam209",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/D-Jukie/miraiv2.git"
     },
-    "author": "D-Jukie",
+    "author": "qlam",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
